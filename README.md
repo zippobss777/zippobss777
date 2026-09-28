@@ -1,5 +1,5 @@
 # 💫About Me :
-🌱 Uczę się HTML, CSS, JS i C#.
+🌱 Uczę się HTML, CSS, JS i C#. <br>
 ⚡ Dotykam trawy
 
 ## 🌐Socials
