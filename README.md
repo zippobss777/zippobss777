@@ -1,6 +1,4 @@
 <h1 align="center">Jestem zippobss</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zippobss777&label=Profile%20views&color=0e75b6&style=flat" alt="zippobss777" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zippobss777" alt="zippobss777" /></a> </p>
